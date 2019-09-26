@@ -24,7 +24,7 @@ Just managed to upgrade my hackintosh to **High Sierra** and switch from **Clove
 - Intel Virtualization Tech - Enabled
 - Intel TXT Support - Disabled
 - VT-d - Disabled
-- Windows 8 Features - Windows 8
+- Windows 8 Features - OtherOS ~~Windows 8~~ *(Booting would result in Black Screen if the HDMI port was being used with the Windows 8 option; works with OtherOS; has to do with CSM)*
 - CSM Support - Never
 - Network Stack - Disabled
 
