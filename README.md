@@ -1,8 +1,10 @@
 ![](https://i.imgur.com/8bGkiIp.jpg)
 
-# GA-H87-D3H running on OpenCore 0.5.1 (High Sierra)
+**Caution**: Parts of this is still a WIP. Some things may not work as expected. 
 
-Just managed to upgrade my hackintosh to **High Sierra** and switch from **Clover** to **OpenCore 0.5.1**.
+# GA-H87-D3H running on OpenCore 0.5.7 (High Sierra)
+
+Just managed to upgrade my hackintosh to **High Sierra** and switch from **Clover** to **OpenCore 0.5.7**.
 
 *(can't go further than High Sierra right now since I'm running on a GTX1060; rip web drivers)​*
 
@@ -49,7 +51,7 @@ So far I've only tested the installation process, booting, Nvidia Web Drivers an
 - [x] GPU / Nvidia Web Drivers
 - [x] Bootcamp
 - [x] Sleep
-- [ ] Audio - Not sure - I use a USB Audio Card
+- [ ] Audio - Not sure - I use an USB Audio Card
 
 ## How can I use this ?
 
