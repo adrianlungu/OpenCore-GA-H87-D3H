@@ -2,17 +2,13 @@
 
 **Caution**: Parts of this is still a WIP. Some things may not work as expected. 
 
-# GA-H87-D3H running on OpenCore 0.5.7 (High Sierra)
-
-Just managed to upgrade my hackintosh to **High Sierra** and switch from **Clover** to **OpenCore 0.5.7**.
-
-*(can't go further than High Sierra right now since I'm running on a GTX1060; rip web drivers)​*
+# GA-H87-D3H running on OpenCore 0.5.8 (Catalina)
 
 ## System Specs
 
 - Motherboard: Gigabyte GA-H87-D3H
 - CPU: Intel i7 4770k
-- GPU: Gigabyte GTX 1060
+- GPU: Radeon RX580
 
 ## BIOS Settings
 
@@ -55,7 +51,7 @@ So far I've only tested the installation process, booting, Nvidia Web Drivers an
 
 ## How can I use this ?
 
-You can just use the EFI folder in the repository as is to boot either a High Sierra installation disk or boot into your existing Mac installation. 
+You can just use the EFI folder in the repository as is to boot either a Catalina installation disk or boot into your existing Mac installation. 
 
 Do test using an USB stick before overwriting any existing Clover/OpenCore installation as issues could occur. 
 
